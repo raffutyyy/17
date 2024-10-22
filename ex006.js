@@ -9,4 +9,4 @@ while(quantidadeAtual < quantidadeTotal){
   quantidadeAtual++
 }
 
-//vai ser adicionada mais linhas
+//vai ser adicionada mais linhas e mais asteriscos a cada linha 

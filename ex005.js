@@ -6,5 +6,4 @@ for (let numero of lista) {
 }
 
 //A) Todos os numeros acima de 18 que estao na lista
-//B)
-//C)
+//B) O for of não permite acessar diretamente o índice dos elementos, apenas os valores.
